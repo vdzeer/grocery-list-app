@@ -1,0 +1,64 @@
+{
+  "groceries": [
+    {
+      "id": "1",
+      "title": "Bread",
+      "amount": "1 loaf",
+      "bought": false
+    },
+    {
+      "id": "2",
+      "title": "Milk",
+      "amount": "3l",
+      "bought": false
+    },
+    {
+      "id": "3",
+      "title": "Eggs",
+      "amount": "12 pcs",
+      "bought": false
+    },
+    {
+      "id": "4",
+      "title": "Cheese",
+      "amount": "250g",
+      "bought": true
+    },
+    {
+      "id": "5",
+      "title": "Tomatoes",
+      "amount": "1kg",
+      "bought": true
+    },
+    {
+      "id": "6",
+      "title": "Coffee",
+      "amount": "500g",
+      "bought": false
+    },
+    {
+      "id": "7",
+      "title": "Butter",
+      "amount": "200g",
+      "bought": false
+    },
+    {
+      "id": "8",
+      "title": "Pasta",
+      "amount": "2 packs",
+      "bought": false
+    },
+    {
+      "id": "9",
+      "title": "Apples",
+      "amount": "1.5kg",
+      "bought": false
+    },
+    {
+      "id": "10",
+      "title": "Chicken Breast",
+      "amount": "1kg",
+      "bought": true
+    }
+  ]
+}
