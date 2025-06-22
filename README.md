@@ -23,7 +23,7 @@
 
 | Splash Screen                      | Home Screen                        | Add Grocery                       |
 | ---------------------------------- | ---------------------------------- | --------------------------------- |
-| ![](./assets/screenshots/main.png) | ![](./assets/screenshots/home.png) | ![](./assets/screenshots/add.png) |
+| ![Splash](https://github.com/vdzeer/grocery-list-app/blob/master/assets/screenshots/main.PNG) | ![Home](https://github.com/vdzeer/grocery-list-app/blob/master/assets/screenshots/home.PNG) | ![Add](https://github.com/vdzeer/grocery-list-app/blob/master/assets/screenshots/add.PNG) |
 
 ---
 
